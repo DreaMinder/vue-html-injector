@@ -25,8 +25,8 @@ Injector component with HTML prop "content"
 </injector>
 ```
 
-Multiple slots:
-
+#Multiple slots:
+Raw HTML
 ```
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</p>  
 %%image%%
