@@ -10,6 +10,7 @@
 <script>
 
 export default {
+  name: 'injector',
   props: ['content'],
   computed: {
     chunks(){
